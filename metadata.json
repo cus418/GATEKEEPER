@@ -1,0 +1,9 @@
+{
+  "name": "The Gatekeeper: Sobriety Check",
+  "description": "An AI-powered security system that uses sensors, vision, and audio to administer unconventional sobriety field tests before allowing the user to leave their home geofence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
